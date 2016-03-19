@@ -1,0 +1,28 @@
+name: Living with Insulin Resistance
+favicon: null
+layout_spectrum: 0.3685750237200409
+typography_spectrum: 0.1865146216005087
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8438623275142163
+  lightness: 0.7896176569629461
+  saturation: 0.9332078082952648
+  rhythmicContrast: 0.7595291973557323
+purpose: []
