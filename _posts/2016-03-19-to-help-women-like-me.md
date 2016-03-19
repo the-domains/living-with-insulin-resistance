@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "My mission is to make living with insulin resistance easier for others by sharing what I've learned over the years reading, exploring, and experimenting."
-datePublished: '2016-03-19T20:16:59.294Z'
-dateModified: '2016-03-19T20:15:21.142Z'
+datePublished: '2016-03-19T20:20:32.558Z'
+dateModified: '2016-03-19T20:20:11.098Z'
 title: To help women like me
 author: []
 sourcePath: _posts/2016-03-19-to-help-women-like-me.md
