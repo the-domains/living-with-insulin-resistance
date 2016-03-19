@@ -4,7 +4,7 @@
         <description><![CDATA[Living with Insulin Resistance]]></description>
         <link>https://thegrid.ai/living-with-insulin-resistance/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 20:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 20:58:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/living-with-insulin-resistance/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[To help women like me]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/living-with-insulin-resistance/to-help-women-like-me/index.html</link>
             <guid isPermaLink="false">452903ab-bb8c-41ae-8254-31b50f580f48</guid>
             <pubDate>Sat, 19 Mar 2016 20:20:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is insulin resistance?]]></title>
+            <description><![CDATA[<article><h1>What is insulin resistance?</h1><p>Insulin Resistance. Metabolic Syndrome. Syndrome X. Pre-diabetes. What we're talking about in layman's terms is a condition where your body doesn't process sugar very well. </p></article>]]></description>
+            <link>https://thegrid.ai/living-with-insulin-resistance/what-is-insulin-resistance/index.html</link>
+            <guid isPermaLink="false">01d6fb00-11f8-4cf4-8e58-58968979fb14</guid>
+            <pubDate>Sat, 19 Mar 2016 20:58:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
