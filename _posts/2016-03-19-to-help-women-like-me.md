@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "It took years of reading, exploring, and experimenting to learn how to live and thrive with insulin resistance. I'd like to make that period of adjustment easier for others by sharing what works for me."
-datePublished: '2016-03-19T14:55:25.239Z'
-dateModified: '2016-03-19T14:55:02.924Z'
+datePublished: '2016-03-19T16:37:17.296Z'
+dateModified: '2016-03-19T16:37:12.600Z'
 title: To help women like me
 author: []
 sourcePath: _posts/2016-03-19-to-help-women-like-me.md
