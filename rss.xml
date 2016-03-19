@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Living with Insulin Resistance]]></title>
+        <description><![CDATA[Living with Insulin Resistance]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 19 Mar 2016 14:29:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[To help women like me]]></title>
+            <description><![CDATA[<article><h1>To help women like me</h1><p>It took years of reading, exploring, and experimenting to learn how to live and thrive with insulin resistance. I'd like to make that period of adjustment easier for others by sharing what works for me.</p></article>]]></description>
+            <link>undefinedto-help-women-like-me/index.html</link>
+            <guid isPermaLink="false">452903ab-bb8c-41ae-8254-31b50f580f48</guid>
+            <pubDate>Sat, 19 Mar 2016 14:29:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
